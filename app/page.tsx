@@ -28,9 +28,9 @@ export default function Page() {
                </Link>
             </div>
             <div className="flex items-center justify-center p-6 md:w-3/5 md:px-28 md:py-12">
-               {/* <div
+               <div
                   className="relative w-0 h-0 border-l-[15px] border-r-[15px] border-b-[26px] border-l-transparent border-r-transparent border-b-black"
-               /> */}
+               />
                {/* Add Hero Images Here */}
                <Image
                   src="/hero-desktop.png"
